@@ -1,0 +1,48 @@
+DienThoai,Samsung,Galaxy S21,Điện thoại,Exynos 2100,6.2,800.0,169.0,128,8,true
+DienThoai,Apple,iPhone 13,Điện thoại,A15 Bionic,6.1,999.0,174.0,256,6,true
+DienThoai,Xiaomi,Mi 11,Điện thoại,Qualcomm Snapdragon 888,6.81,749.0,196.0,128,8,true
+DienThoai,Oppo,Find X3,Điện thoại,Qualcomm Snapdragon 870,6.7,699.0,190.0,256,12,true
+DienThoai,Vivo,V21,Điện thoại,MediaTek Dimensity 800U,6.44,300.0,176.0,128,8,true
+DienThoai,Huawei,P50,Điện thoại,Kirin 9000,6.5,850.0,189.0,128,8,true
+DienThoai,Realme,GT Master,Điện thoại,Qualcomm Snapdragon 778G,6.43,350.0,174.0,128,6,true
+DienThoai,OnePlus,9 Pro,Điện thoại,Qualcomm Snapdragon 888,6.7,970.0,197.0,256,12,true
+DienThoai,Sony,Xperia 1 III,Điện thoại,Qualcomm Snapdragon 888,6.5,1200.0,186.0,512,12,true
+DienThoai,Google,Pixel 5,Điện thoại,Qualcomm Snapdragon 765G,6.0,699.0,151.0,128,8,true
+Tablet,Lenovo,Tab P11,Tablet,Qualcomm Snapdragon 662,11,250.0,490.0,64,4,false
+Tablet,Samsung,Galaxy Tab S7,Tablet,Qualcomm Snapdragon 865+,11,650.0,498.0,128,6,false
+Tablet,Apple,iPad Pro,Tablet,Apple M1,12.9,1200.0,682.0,256,8,false
+Tablet,Huawei,MediaPad M6,Tablet,HiSilicon Kirin 980,10.8,400.0,498.0,128,4,false
+Tablet,Xiaomi,Mi Pad 5,Tablet,Qualcomm Snapdragon 860,11,450.0,511.0,128,6,false
+Tablet,Amazon,Fire HD 10,Tablet,MediaTek Helio P60T,10.1,150.0,465.0,32,3,false
+Tablet,Microsoft,Surface Go 2,Tablet,Intel Pentium Gold,10.5,550.0,544.0,64,4,true
+Tablet,Lenovo,Tab M10,Tablet,MediaTek Helio P22T,10.1,200.0,480.0,32,3,false
+Tablet,Samsung,Galaxy Tab A7,Tablet,Qualcomm Snapdragon 662,10.4,230.0,476.0,32,3,false
+Tablet,Apple,iPad Air,Tablet,Apple A14 Bionic,10.9,600.0,458.0,64,4,false
+DienThoai,Asus,ROG Phone 5,Điện thoại,Qualcomm Snapdragon 888,6.78,999.0,238.0,256,16,true
+DienThoai,Poco,X3 Pro,Điện thoại,Qualcomm Snapdragon 860,6.67,250.0,215.0,128,6,true
+DienThoai,Honor,50,Điện thoại,Qualcomm Snapdragon 778G,6.57,400.0,175.0,128,8,true
+DienThoai,Vsmart,Joy 4,Điện thoại,Qualcomm Snapdragon 665,6.53,150.0,195.0,64,4,true
+DienThoai,Nokia,G50,Điện thoại,Qualcomm Snapdragon 480,6.82,220.0,220.0,128,4,true
+DienThoai,Infinix,Hot 10S,Điện thoại,MediaTek Helio G85,6.82,130.0,211.0,64,4,true
+DienThoai,Tecno,Spark 7,Điện thoại,MediaTek Helio A25,6.5,120.0,192.0,32,2,true
+Tablet,Samsung,Galaxy Tab S6 Lite,Tablet,Exynos 9611,10.4,330.0,467.0,64,4,false
+Tablet,Lenovo,Tab P11 Pro,Tablet,Qualcomm Snapdragon 730G,11.5,450.0,485.0,128,4,false
+Tablet,Apple,iPad Mini,Tablet,Apple A12 Bionic,7.9,400.0,300.5,64,4,false
+Tablet,Samsung,Galaxy Tab A,Tablet,Exynos 7904,10.1,200.0,470.0,32,3,false
+Tablet,Huawei,MediaPad T5,Tablet,HiSilicon Kirin 659,10.1,250.0,460.0,64,3,false
+DienThoai,LG,Velvet,Điện thoại,Qualcomm Snapdragon 765G,6.8,600.0,180.0,128,6,true
+DienThoai,Motorola,Moto G Power,Điện thoại,Qualcomm Snapdragon 662,6.4,250.0,206.0,64,4,true
+DienThoai,Google,Pixel 6,Điện thoại,Google Tensor,6.4,599.0,207.0,128,8,true
+DienThoai,BlackBerry,Key2,Điện thoại,Qualcomm Snapdragon 660,4.5,399.0,168.0,64,6,true
+DienThoai,Sony,Xperia 10 II,Điện thoại,Qualcomm Snapdragon 665,6.0,350.0,151.0,128,4,true
+DienThoai,Realme,8 Pro,Điện thoại,Qualcomm Snapdragon 720G,6.4,250.0,176.0,128,8,true
+Tablet,Chuwi,Hi10 X,Tablet,Intel Celeron N4100,10.1,250.0,600.0,128,6,true
+Tablet,Alldocube,iPlay 20,Tablet,UNISOC SC9863A,10.1,150.0,450.0,64,4,false
+Tablet,Tecno,DroiPad 7D,Tablet,MediaTek MT8321,7.0,80.0,245.0,16,1,false
+Tablet,Blackview,Tab 8,Tablet,UNISOC SC9863A,10.1,200.0,600.0,64,4,false
+Tablet,ONDA,V10 Pro,Tablet,Rockchip RK3399,10.1,170.0,570.0,32,2,false
+DienThoai,Ulefone,Armor 9,Điện thoại,MediaTek Helio P90,6.3,450.0,320.0,128,8,true
+DienThoai,Oukitel,WP10,Điện thoại,MediaTek Dimensity 800,6.67,500.0,370.0,128,8,true
+DienThoai,Doogee,S96 Pro,Điện thoại,MediaTek Helio G90,6.22,300.0,310.0,128,8,true
+Tablet,Fusion5,10.1 Inch,Tablet,MediaTek MT8163,10.1,120.0,430.0,32,2,false
+Tablet,Yestel,X7,Tablet,UNISOC SC9863A,10.1,140.0,480.0,32,2,false
