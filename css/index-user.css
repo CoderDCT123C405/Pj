@@ -57,6 +57,14 @@ aside ul li a:active {
     color: #336799 !important;
 }
 
+.card a img {
+    height: 400px;
+}
+
+.card-title {
+    height: 75px;
+}
+
 .card-body .btn:hover {
     background-color: #28527a !important;
 }
